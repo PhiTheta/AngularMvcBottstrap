@@ -1,0 +1,6 @@
+c:\users\miklun\documents\visual studio 2013\Projects\AngularBootstrapMVC\AngularBootstrapMVC\bin\AngularBootstrapMVC.dll.config
+c:\users\miklun\documents\visual studio 2013\Projects\AngularBootstrapMVC\AngularBootstrapMVC\bin\AngularBootstrapMVC.dll
+c:\users\miklun\documents\visual studio 2013\Projects\AngularBootstrapMVC\AngularBootstrapMVC\bin\AngularBootstrapMVC.pdb
+c:\users\miklun\documents\visual studio 2013\Projects\AngularBootstrapMVC\AngularBootstrapMVC\obj\Debug\AngularBootstrapMVC.dll
+c:\users\miklun\documents\visual studio 2013\Projects\AngularBootstrapMVC\AngularBootstrapMVC\obj\Debug\AngularBootstrapMVC.pdb
+c:\users\miklun\documents\visual studio 2013\Projects\AngularBootstrapMVC\AngularBootstrapMVC\obj\Debug\AngularBootstrapMVC.csprojResolveAssemblyReference.cache
