@@ -9,3 +9,4 @@ C:\Users\Mikael\Documents\Visual Studio 2013\Projects\AngularMvcBootstrap\Angula
 C:\Users\Mikael\Documents\Visual Studio 2013\Projects\AngularMvcBootstrap\AngularMvcBottstrap\AngularBootstrapMVC\bin\AngularBootstrapMVC.pdb
 C:\Users\Mikael\Documents\Visual Studio 2013\Projects\AngularMvcBootstrap\AngularMvcBottstrap\AngularBootstrapMVC\obj\Debug\AngularBootstrapMVC.dll
 C:\Users\Mikael\Documents\Visual Studio 2013\Projects\AngularMvcBootstrap\AngularMvcBottstrap\AngularBootstrapMVC\obj\Debug\AngularBootstrapMVC.pdb
+C:\Users\Mikael\Documents\Visual Studio 2013\Projects\AngularMvcBootstrap\AngularMvcBottstrap\AngularBootstrapMVC\obj\Debug\AngularBootstrapMVC.csprojResolveAssemblyReference.cache

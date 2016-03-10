@@ -85,7 +85,7 @@
     <Content Include="App\AngularFormsApp.js" />
     <Content Include="App\EmployeeForm\efController.js" />
     <Content Include="App\EmployeeForm\efDirective.js" />
-    <Content Include="App\EmployeeForm\efService.js" />
+    <Content Include="App\DataService.js" />
     <Content Include="App\EmployeeForm\efTemplate.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
